@@ -11,7 +11,7 @@
 
 *Вернем Флипика и Флопика на свои места!*
 
-
+Должно получиться так: https://github.com/hotsytotsygirl/Pygame/blob/main/tic_tac_toe/ref.jpg
 
 
 
